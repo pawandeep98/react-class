@@ -94,6 +94,7 @@ input[type=text] {
       padding-bottom: 30px;
       width: 15%;
       height: 50%;
+      margin:10px;
       
       justify-content: space-around I !important;
       display: inline-block;
@@ -102,51 +103,6 @@ input[type=text] {
       border: 1px solid rgb(186, 185, 185);
     }
     
-    .cardd-1{
-      width: 15%;
-      height: 50%;
-      padding-bottom: 30px;
-      margin-left: 20px;
-      margin-right: 20px;
-      justify-content: space-around I !important;
-      display: inline-block;
-      border-radius: 20px;
+   
     
-      border: 1px solid rgb(186, 185, 185);
-    }
-    
-    .cardd-2{
-      width: 15%;
-      height: 50%;
-      padding-bottom: 30px;
-      margin-right: 20px;
-      justify-content: space-around I !important;
-      border-radius: 20px;display: inline-block;
-      
-    
-      border: 1px solid rgb(186, 185, 185);
-    }
-    
-    .cardd-3{
-      width: 15%;
-      height: 50%;
-      padding-bottom: 30px;
-      margin-right: 20px;
-      justify-content: space-around I !important;
-      display: inline-block;
-      border-radius: 20px;
-    
-      border: 1px solid rgb(186, 185, 185);
-    }
-    .cardd-4{
-      width: 15%;
-      height: 50%;
-      padding-bottom: 30px;
-      border-radius: 20px;
-      justify-content: space-around I !important;
-      display: inline-block;
-      
-    
-      border: 1px solid rgb(186, 185, 185);
-    }
     
