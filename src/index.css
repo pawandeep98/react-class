@@ -1,0 +1,152 @@
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+
+  background-color: #d0cece;
+}
+.main-nav{
+  padding-top: 2%;
+  margin-top: -38px;
+  width: 100%;
+  height: 10rem;
+  background-color: white;
+  display: grid;
+  grid-template-columns: 14rem    10rem   40rem 10rem  4rem;
+
+}
+.location{
+  margin-top: 52px;
+}
+.Profile{
+  margin-top: 52px;
+}
+.logo-apollo{
+  
+  width: 65%;
+
+  margin-left: 20px;
+
+}
+.menu-link{
+
+  grid-column: 3/4;
+
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+hr{
+  width: 70%;
+  color: rgb(202, 199, 199);
+}
+.menu-link ul{
+  margin-top: 0px;
+  list-style: none;
+ height: 10rem; 
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+
+}
+input[type=text] {
+  margin-bottom: 15px;
+  width: 80%;
+  background-color: rgb(246, 240, 240);
+  padding: 6px;
+  margin-top: 8px;
+  font-size: 22px;
+  border: none;  
+  }  
+  .searchbox button {  
+    
+  padding: 8px;  
+  margin-top: 10px;  
+  margin-left: 10px;  
+  background: orange;  
+  font-size: 20px;  
+  border: none;  
+  cursor: pointer;  
+  } 
+  .searchbox{
+  background-color: white;
+  } 
+  .searchbox button:hover {  
+  background:rgb(230, 202, 149);  
+  }  
+
+  .green-band{
+    text-align: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 80px;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(102, 238, 197);}
+
+    .Cart-down{
+      padding-bottom: 20px;
+      background-color: white;
+    }
+
+    .cardd{
+      padding-bottom: 30px;
+      width: 15%;
+      height: 50%;
+      
+      justify-content: space-around I !important;
+      display: inline-block;
+      border-radius: 20px;
+    
+      border: 1px solid rgb(186, 185, 185);
+    }
+    
+    .cardd-1{
+      width: 15%;
+      height: 50%;
+      padding-bottom: 30px;
+      margin-left: 20px;
+      margin-right: 20px;
+      justify-content: space-around I !important;
+      display: inline-block;
+      border-radius: 20px;
+    
+      border: 1px solid rgb(186, 185, 185);
+    }
+    
+    .cardd-2{
+      width: 15%;
+      height: 50%;
+      padding-bottom: 30px;
+      margin-right: 20px;
+      justify-content: space-around I !important;
+      border-radius: 20px;display: inline-block;
+      
+    
+      border: 1px solid rgb(186, 185, 185);
+    }
+    
+    .cardd-3{
+      width: 15%;
+      height: 50%;
+      padding-bottom: 30px;
+      margin-right: 20px;
+      justify-content: space-around I !important;
+      display: inline-block;
+      border-radius: 20px;
+    
+      border: 1px solid rgb(186, 185, 185);
+    }
+    .cardd-4{
+      width: 15%;
+      height: 50%;
+      padding-bottom: 30px;
+      border-radius: 20px;
+      justify-content: space-around I !important;
+      display: inline-block;
+      
+    
+      border: 1px solid rgb(186, 185, 185);
+    }
+    
